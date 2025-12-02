@@ -64,6 +64,7 @@ In Gensyn Dc go to swarm-link channel
 Enter /link-telegram
 
 You will get your code from here
+
 2. Verify the code in Telegram Bot
 Go to Your bot which you created
 
